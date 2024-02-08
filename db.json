@@ -1,7 +1,7 @@
 {
   "cursos": [
     {
-      "Id": "8199d421-6aeb-4f5c-adce-13309fbe2601",
+      "id": "8199d421-6aeb-4f5c-adce-13309fbe2601",
       "Descricao": "Informática",
       "UnidadeAtendimentoId": "1bd24260-7fb6-48d5-b90c-e496b50e3398",
       "Status": "INICIADO",
@@ -12,7 +12,7 @@
       "Tipo": "Curso"
     },
     {
-      "Id": "8199d421-6aeb-4f5c-adce-13309fbe2608",
+      "id": "8199d421-6aeb-4f5c-adce-13309fbe2608",
       "Descricao": "Pintura",
       "UnidadeAtendimentoId": "1bd24260-7fb6-48d5-b90c-e496b50e3398",
       "Status": "INICIADO",
@@ -23,7 +23,7 @@
       "Tipo": "Curso"
     },
     {
-      "Id": "8199d421-6aeb-4f5c-adce-13309fbe2708",
+      "id": "8199d421-6aeb-4f5c-adce-13309fbe2708",
       "Descricao": "Corte de Cabelo",
       "UnidadeAtendimentoId": "1bd24260-7fb6-48d5-b90c-e496b50e3398",
       "Status": "INICIADO",
@@ -34,7 +34,7 @@
       "Tipo": "Curso"
     },
     {
-      "Id": "8199d421-6aeb-4f5c-adce-13309fbe2703",
+      "id": "8199d421-6aeb-4f5c-adce-13309fbe2703",
       "Descricao": "Violão",
       "UnidadeAtendimentoId": "1bd24260-7fb6-48d5-b90c-e496b50e3398",
       "Status": "INICIADO",
@@ -46,7 +46,7 @@
     }
   ],
   "alunos": [
-    { "Id" : "6084sde0-ba0f-41db-a997-0adsd124s4e",
+    { "id" : "6084sde0-ba0f-41db-a997-0adsd124s4e",
       "PessoaId":  "608438e0-ba0f-41db-a997-0adfb712434e",
       "FamiliaId": "ada4c77f-f774-45a9-8469-2fb70a228fde",
       "CursoId": "ada4c77f-f774-45a9-8469-2fb70sds28fde",
